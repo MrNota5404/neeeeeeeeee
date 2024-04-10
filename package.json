@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev":"node bot.js",
+    "slash":"node deploy-commands.js"
+  },
+    "dependencies": {
+      "discord.js": "^14.14.1"
+    }
+  }
